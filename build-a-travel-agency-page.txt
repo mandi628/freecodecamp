@@ -1,0 +1,34 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8" />
+    <title>Travel Agency Page</title>
+    <link rel="stylesheet" href="./styles.css" />
+    <meta
+       name="description"
+       content="With Travel Agency you can go where your dreams take you!" />
+  </head>
+  <body>
+    <h1>Destinations</h1>
+    <p>You will be amazed at the low-cost options we have for your dream destinations! Europe, Asia, South America, North America, Pacific Islands - you name it, we have a deal for you!</p>
+    <h2>Packages</h2>
+    <p>Each of our destinations has three levels of travel packages. For do-it-yourselfers, the Economy Package is a great way to get where you're going, and leaves you room and money to chart your own journey. If you prefer to just go along for the ride, our Platinum Package may be for you. And for those who want a little of both, check out our Premium Package.</p>
+    <ul>
+      <li><a href="https://www.freecodecamp.org/learn" target="_blank">Group Travels</a></li>
+      <li><a href="https://www.freecodecamp.org/learn" target="_blank">Private Tours</a></li>
+    </ul>
+    <h2>Top Itineraries</h2>
+    <figure>
+      <a href="https://www.freecodecamp.org/learn" target="_blank"><img src="https://cdn.freecodecamp.org/curriculum/labs/colosseo.jpg" alt="The Colosseum, in Greece" /></a>
+    <figcaption><a href="https://www.freecodecamp.org/learn" target="_blank">The Colosseum, in Greece</a></figcaption>
+    </figure>
+    <figure>
+      <a href="https://www.freecodecamp.org/learn" target="_blank"><img src="https://cdn.freecodecamp.org/curriculum/labs/alps.jpg" alt="The Alps, in Switzerland" /></a>
+      <figcaption><a href="https://www.freecodecamp.org/learn" target="_blank">The Alps, in Switzerland</a></figcaption>
+    </figure>
+    <figure>
+      <a href="https://www.freecodecamp.org/learn" target="_blank"><img src="https://cdn.freecodecamp.org/curriculum/labs/sea.jpg" alt="The Wide Open Sea" /></a>
+      <figcaption><a href="https://www.freecodecamp.org/learn" target="_blank">The Wide Open Sea</a></figcaption>
+    </figure>
+  </body>
+</html>
